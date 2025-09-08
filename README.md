@@ -4,22 +4,6 @@ This repository contains work on two projects focusing on cancer detection and s
 
 ---
 
-## 📂 Project Structure
-
-├── data/
-│ ├── p1-dataset/ # Data for Project 1 (Cancer Detection)
-│ ├── p2-cleaned-data/ # Data for Project 2 (Subtype Classification)
-│ ├── p2-raw-data/ # Raw data of Project 2
-|
-├── notebooks/
-│ ├── p1-brca-detection.ipynb # Cancer Detection project notebook 
-│ ├── p2-Data-Cleaning.ipynb # Data preprocessing and cleaning of dataset 2 (dataset 1 is already cleaned)
-│ ├── p2-subtype-detection.ipynb # Subtype Classification project notebook
-│
-└── README.md
-
-
----
 
 ## 🧪 Project 1: Cancer Detection
 
