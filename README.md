@@ -1,4 +1,4 @@
-# Cancer Detection & Subtype Classification
+# Breast Cancer Detection & Subtype Classification
 
 This repository contains work on two projects focusing on cancer detection and subtype classification using machine learning models. The workflow includes **data cleaning**, **model training**, and **evaluation**.  
 
