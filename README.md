@@ -33,5 +33,5 @@ This project was more challenging due to multiple cancer subtypes, but the resul
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/cancer-detection-projects.git
+   git clone https://github.com/MohammedSameerWahab/Multi-Stage-Machine-Learning-Pipeline-for-Breast-Cancer-Analysis.git
 
